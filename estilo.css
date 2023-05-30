@@ -1,0 +1,24 @@
+.interno{
+    margin: 30px;
+    padding: 20px;
+    width: 400px; 
+    height: 200px;
+    background-color: blueviolet;
+} 
+.medio{
+
+    width: 100%; 
+    height: 100%;
+    display: flex;
+    justify-content: center;
+align-items: center;
+    background-color: rgb(226, 43, 70);
+} 
+.externo{
+    width: 80%; 
+    height: 80%;
+    display: flex;
+    justify-content: center;
+align-items: center;
+    background-color: rgb(137, 226, 43);
+} 
